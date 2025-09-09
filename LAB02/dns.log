@@ -1,0 +1,24 @@
+2025-09-09 14:17:07,539 [INFO] DNS A records for google.com:
+2025-09-09 14:17:07,541 [INFO] 142.250.183.174
+2025-09-09 14:17:07,543 [INFO] --------------------------------------------------
+2025-09-09 14:17:07,709 [INFO] DNS MX records for google.com:
+2025-09-09 14:17:07,709 [INFO] 10 smtp.google.com.
+2025-09-09 14:17:07,710 [INFO] --------------------------------------------------
+2025-09-09 14:17:07,720 [INFO] DNS CNAME records for www.google.com:
+2025-09-09 14:17:07,720 [INFO] forcesafesearch.google.com.
+2025-09-09 14:27:51,609 [INFO] DNS A records for google.com:
+2025-09-09 14:27:51,614 [INFO] 142.250.183.174
+2025-09-09 14:27:51,615 [INFO] --------------------------------------------------
+2025-09-09 14:27:51,754 [INFO] DNS MX records for google.com:
+2025-09-09 14:27:51,765 [INFO] 10 smtp.google.com.
+2025-09-09 14:27:51,765 [INFO] --------------------------------------------------
+2025-09-09 14:27:51,812 [INFO] DNS CNAME records for www.google.com:
+2025-09-09 14:27:51,812 [INFO] forcesafesearch.google.com.
+2025-09-09 14:53:50,593 [INFO] DNS A records for google.com:
+2025-09-09 14:53:50,594 [INFO] 142.250.183.174
+2025-09-09 14:53:50,595 [INFO] --------------------------------------------------
+2025-09-09 14:53:50,673 [INFO] DNS MX records for google.com:
+2025-09-09 14:53:50,674 [INFO] 10 smtp.google.com.
+2025-09-09 14:53:50,675 [INFO] --------------------------------------------------
+2025-09-09 14:53:50,683 [INFO] DNS CNAME records for www.google.com:
+2025-09-09 14:53:50,683 [INFO] forcesafesearch.google.com.
