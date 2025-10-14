@@ -1,0 +1,21 @@
+Sender                               Receiver
+  |                                      |
+  |---- Frame 0 ---->                    |  (sending)
+  |                                      |
+  | <--- ACK 0 -----                     |  (received OK)
+  |                                      |
+  |---- Frame 1 ---->                    |
+  |   (Frame 1 lost ❌ - random event)   |
+  |         (wait TIMEOUT seconds...)    |
+  |---- Frame 1 (retransmit) ---->       |
+  | <--- ACK 1 -----                     |
+  |                                      |
+  |---- Frame 2 ---->                    |
+  |                                      |
+  | <--- ACK 2 lost ❌ (random event)    |
+  |      (wait TIMEOUT seconds...)       |
+  |---- Frame 2 (retransmit) ---->       |
+  | <--- ACK 2 -----                     |
+  |                                      |
+  |---- Frame 3 ---->                    |
+  | <--- ACK 3 -----                     |
